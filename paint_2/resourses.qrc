@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/new/for_buttons">
+        <file>resourses/color.png</file>
+        <file>resourses/elipse.png</file>
+        <file>resourses/open.png</file>
+        <file>resourses/rectangle.png</file>
+        <file>resourses/rubber.png</file>
+        <file>resourses/save.png</file>
+    </qresource>
+    <qresource prefix="/new/for_cursor">
+        <file>resourses/cursor_brush.png</file>
+        <file>resourses/cursor_rubber.png</file>
+    </qresource>
+</RCC>
